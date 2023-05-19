@@ -1,0 +1,36 @@
+ 
+    {
+
+         "students" :[
+
+        {
+         "name" : "aaa",
+     "surname": "bbb",
+       "phnno":"12345",
+        "course":[
+                "selenium",
+               "javascript",
+                 "postman"
+
+          ]
+         },
+
+{
+         "name" : "aaaa",
+     "surname": "bbbb",
+       "phnno":"123456",
+        "course":[
+                "c++",
+               "testNG",
+                 "jmeter"
+
+          ]
+         }
+
+
+
+
+
+
+       ]
+}
